@@ -1,1 +1,1 @@
-"results: {'masterId':cinco,'office':cuatro,'source':tres, 'type':dos, 'userName':uno}"
+"results: {'masterId':yes,'office':maybe,'source':perhaps, 'type':idk, 'userName':yes}"
